@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/fahmirizalbudi/biosgo" target="blank">
-<img src="https://raw.githubusercontent.com/JjagoKoding/icon/9f31e99836f12ece19eaf09d181aa185428e13c5/biosgo.svg" width="280" alt="Logo" />
+<img src="https://raw.githubusercontent.com/JjagoKoding/icon/9f31e99836f12ece19eaf09d181aa185428e13c5/biosgo.svg" width="300" alt="Logo" />
 </a>
 
 <br />
@@ -48,8 +48,6 @@ To get a local copy of this project up and running, follow these steps.
    ```
 
 2. **Install dependencies:**
-
-   Using Npm:
 
    ```bash
    go mod tidy
